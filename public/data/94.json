@@ -1,0 +1,147 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 94,
+      "name": "سورة الشرح",
+      "englishName": "Ash-Sharh",
+      "englishNameTranslation": "The Consolation",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "number": 6091,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6091,
+          "text": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6092,
+          "text": "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6093,
+          "text": "الَّذِي أَنْقَضَ ظَهْرَكَ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6094,
+          "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6095,
+          "text": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6096,
+          "text": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6097,
+          "text": "فَإِذَا فَرَغْتَ فَانْصَبْ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6098,
+          "text": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 94,
+      "name": "سورة الشرح",
+      "englishName": "Ash-Sharh",
+      "englishNameTranslation": "The Consolation",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6091,
+          "text": "HAVE WE NOT opened up thy heart,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6092,
+          "text": "and lifted from thee the burden",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6093,
+          "text": "that had weighed so heavily on thy back?",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6094,
+          "text": "And [have We not] raised thee high in dignity?",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6095,
+          "text": "And, behold, with every hardship comes ease:",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6096,
+          "text": "verily, with every hardship comes ease!",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6097,
+          "text": "Hence, when thou art freed [from distress], remain steadfast,",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6098,
+          "text": "and unto thy Sustainer turn with love.",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

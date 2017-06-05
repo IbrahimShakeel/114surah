@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 110,
+      "name": "سورة النصر",
+      "englishName": "An-Nasr",
+      "englishNameTranslation": "Divine Support",
+      "revelationType": "Medinan",
+      "numberOfAyahs": 3,
+      "ayahs": [
+        {
+          "number": 6214,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6214,
+          "text": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6215,
+          "text": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6216,
+          "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+          "numberInSurah": 3,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 110,
+      "name": "سورة النصر",
+      "englishName": "An-Nasr",
+      "englishNameTranslation": "Divine Support",
+      "revelationType": "Medinan",
+      "numberOfAyahs": 3,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6214,
+          "text": "WHEN GOD'S SUCCOUR comes, and victory,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6215,
+          "text": "and thou seest people enter God's religion in hosts,",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6216,
+          "text": "extol thy Sustainer's limitless glory, and praise Him, and seek His forgiveness: for, behold, He is ever an acceptor of repentance.",
+          "numberInSurah": 3,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

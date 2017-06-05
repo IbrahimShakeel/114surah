@@ -1,0 +1,147 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 102,
+      "name": "سورة التكاثر",
+      "englishName": "At-Takaathur",
+      "englishNameTranslation": "Competition",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "number": 6169,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6169,
+          "text": "أَلْهَاكُمُ التَّكَاثُرُ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6170,
+          "text": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6171,
+          "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6172,
+          "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6173,
+          "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6174,
+          "text": "لَتَرَوُنَّ الْجَحِيمَ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6175,
+          "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6176,
+          "text": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 102,
+      "name": "سورة التكاثر",
+      "englishName": "At-Takaathur",
+      "englishNameTranslation": "Competition",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6169,
+          "text": "YOU ARE OBSESSED by greed for more and more",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6170,
+          "text": "until you go down to your graves.",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6171,
+          "text": "Nay, in time you will come to understand!",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6172,
+          "text": "And once again: Nay, in time you will come to understand!",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6173,
+          "text": "Nay, if you could but understand [it] with an understanding [born] of certainty,",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6174,
+          "text": "you would indeed, most surely, behold the blazing fire [of hell]!",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6175,
+          "text": "In the end you will indeed, most surely, behold it with the eye of certainty:",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6176,
+          "text": "and on that Day you will most surely be called to account for [what you did with] the boon of life!",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

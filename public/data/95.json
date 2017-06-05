@@ -1,0 +1,147 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 95,
+      "name": "سورة التين",
+      "englishName": "At-Tin",
+      "englishNameTranslation": "The Fig",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "number": 6099,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6099,
+          "text": "وَالتِّينِ وَالزَّيْتُونِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6100,
+          "text": "وَطُورِ سِينِينَ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6101,
+          "text": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6102,
+          "text": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6103,
+          "text": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6104,
+          "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6105,
+          "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6106,
+          "text": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 95,
+      "name": "سورة التين",
+      "englishName": "At-Tin",
+      "englishNameTranslation": "The Fig",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6099,
+          "text": "CONSIDER the fig and the olive,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6100,
+          "text": "and Mount Sinai,",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6101,
+          "text": "and this land secure!",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6102,
+          "text": "Verily, We create man in the best conformation;",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6103,
+          "text": "and thereafter We reduce him to the lowest of low",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6104,
+          "text": "excepting only such as attain to faith and do good works: and theirs shall be a reward unending!",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6105,
+          "text": "What, then, [O man,] could henceforth cause thee to give the lie to this moral law?",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6106,
+          "text": "Is not God the most just of judges?",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

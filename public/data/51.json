@@ -1,0 +1,771 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 51,
+      "name": "سورة الذاريات",
+      "englishName": "Adh-Dhaariyat",
+      "englishNameTranslation": "The Winnowing Winds",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 60,
+      "ayahs": [
+        {
+          "number": 4676,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 26
+        },
+        {
+          "number": 4676,
+          "text": "وَالذَّارِيَاتِ ذَرْوًا",
+          "numberInSurah": 1,
+          "juz": 26
+        },
+        {
+          "number": 4677,
+          "text": "فَالْحَامِلَاتِ وِقْرًا",
+          "numberInSurah": 2,
+          "juz": 26
+        },
+        {
+          "number": 4678,
+          "text": "فَالْجَارِيَاتِ يُسْرًا",
+          "numberInSurah": 3,
+          "juz": 26
+        },
+        {
+          "number": 4679,
+          "text": "فَالْمُقَسِّمَاتِ أَمْرًا",
+          "numberInSurah": 4,
+          "juz": 26
+        },
+        {
+          "number": 4680,
+          "text": "إِنَّمَا تُوعَدُونَ لَصَادِقٌ",
+          "numberInSurah": 5,
+          "juz": 26
+        },
+        {
+          "number": 4681,
+          "text": "وَإِنَّ الدِّينَ لَوَاقِعٌ",
+          "numberInSurah": 6,
+          "juz": 26
+        },
+        {
+          "number": 4682,
+          "text": "وَالسَّمَاءِ ذَاتِ الْحُبُكِ",
+          "numberInSurah": 7,
+          "juz": 26
+        },
+        {
+          "number": 4683,
+          "text": "إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ",
+          "numberInSurah": 8,
+          "juz": 26
+        },
+        {
+          "number": 4684,
+          "text": "يُؤْفَكُ عَنْهُ مَنْ أُفِكَ",
+          "numberInSurah": 9,
+          "juz": 26
+        },
+        {
+          "number": 4685,
+          "text": "قُتِلَ الْخَرَّاصُونَ",
+          "numberInSurah": 10,
+          "juz": 26
+        },
+        {
+          "number": 4686,
+          "text": "الَّذِينَ هُمْ فِي غَمْرَةٍ سَاهُونَ",
+          "numberInSurah": 11,
+          "juz": 26
+        },
+        {
+          "number": 4687,
+          "text": "يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ",
+          "numberInSurah": 12,
+          "juz": 26
+        },
+        {
+          "number": 4688,
+          "text": "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
+          "numberInSurah": 13,
+          "juz": 26
+        },
+        {
+          "number": 4689,
+          "text": "ذُوقُوا فِتْنَتَكُمْ هَٰذَا الَّذِي كُنْتُمْ بِهِ تَسْتَعْجِلُونَ",
+          "numberInSurah": 14,
+          "juz": 26
+        },
+        {
+          "number": 4690,
+          "text": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+          "numberInSurah": 15,
+          "juz": 26
+        },
+        {
+          "number": 4691,
+          "text": "آخِذِينَ مَا آتَاهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُحْسِنِينَ",
+          "numberInSurah": 16,
+          "juz": 26
+        },
+        {
+          "number": 4692,
+          "text": "كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ",
+          "numberInSurah": 17,
+          "juz": 26
+        },
+        {
+          "number": 4693,
+          "text": "وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+          "numberInSurah": 18,
+          "juz": 26
+        },
+        {
+          "number": 4694,
+          "text": "وَفِي أَمْوَالِهِمْ حَقٌّ لِلسَّائِلِ وَالْمَحْرُومِ",
+          "numberInSurah": 19,
+          "juz": 26
+        },
+        {
+          "number": 4695,
+          "text": "وَفِي الْأَرْضِ آيَاتٌ لِلْمُوقِنِينَ",
+          "numberInSurah": 20,
+          "juz": 26
+        },
+        {
+          "number": 4696,
+          "text": "وَفِي أَنْفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+          "numberInSurah": 21,
+          "juz": 26
+        },
+        {
+          "number": 4697,
+          "text": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+          "numberInSurah": 22,
+          "juz": 26
+        },
+        {
+          "number": 4698,
+          "text": "فَوَرَبِّ السَّمَاءِ وَالْأَرْضِ إِنَّهُ لَحَقٌّ مِثْلَ مَا أَنَّكُمْ تَنْطِقُونَ",
+          "numberInSurah": 23,
+          "juz": 26
+        },
+        {
+          "number": 4699,
+          "text": "هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ",
+          "numberInSurah": 24,
+          "juz": 26
+        },
+        {
+          "number": 4700,
+          "text": "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا ۖ قَالَ سَلَامٌ قَوْمٌ مُنْكَرُونَ",
+          "numberInSurah": 25,
+          "juz": 26
+        },
+        {
+          "number": 4701,
+          "text": "فَرَاغَ إِلَىٰ أَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ",
+          "numberInSurah": 26,
+          "juz": 26
+        },
+        {
+          "number": 4702,
+          "text": "فَقَرَّبَهُ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+          "numberInSurah": 27,
+          "juz": 26
+        },
+        {
+          "number": 4703,
+          "text": "فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ",
+          "numberInSurah": 28,
+          "juz": 26
+        },
+        {
+          "number": 4704,
+          "text": "فَأَقْبَلَتِ امْرَأَتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ",
+          "numberInSurah": 29,
+          "juz": 26
+        },
+        {
+          "number": 4705,
+          "text": "قَالُوا كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ",
+          "numberInSurah": 30,
+          "juz": 26
+        },
+        {
+          "number": 4706,
+          "text": "۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+          "numberInSurah": 31,
+          "juz": 27
+        },
+        {
+          "number": 4707,
+          "text": "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُجْرِمِينَ",
+          "numberInSurah": 32,
+          "juz": 27
+        },
+        {
+          "number": 4708,
+          "text": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِنْ طِينٍ",
+          "numberInSurah": 33,
+          "juz": 27
+        },
+        {
+          "number": 4709,
+          "text": "مُسَوَّمَةً عِنْدَ رَبِّكَ لِلْمُسْرِفِينَ",
+          "numberInSurah": 34,
+          "juz": 27
+        },
+        {
+          "number": 4710,
+          "text": "فَأَخْرَجْنَا مَنْ كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ",
+          "numberInSurah": 35,
+          "juz": 27
+        },
+        {
+          "number": 4711,
+          "text": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ",
+          "numberInSurah": 36,
+          "juz": 27
+        },
+        {
+          "number": 4712,
+          "text": "وَتَرَكْنَا فِيهَا آيَةً لِلَّذِينَ يَخَافُونَ الْعَذَابَ الْأَلِيمَ",
+          "numberInSurah": 37,
+          "juz": 27
+        },
+        {
+          "number": 4713,
+          "text": "وَفِي مُوسَىٰ إِذْ أَرْسَلْنَاهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَانٍ مُبِينٍ",
+          "numberInSurah": 38,
+          "juz": 27
+        },
+        {
+          "number": 4714,
+          "text": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَاحِرٌ أَوْ مَجْنُونٌ",
+          "numberInSurah": 39,
+          "juz": 27
+        },
+        {
+          "number": 4715,
+          "text": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ",
+          "numberInSurah": 40,
+          "juz": 27
+        },
+        {
+          "number": 4716,
+          "text": "وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ",
+          "numberInSurah": 41,
+          "juz": 27
+        },
+        {
+          "number": 4717,
+          "text": "مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ",
+          "numberInSurah": 42,
+          "juz": 27
+        },
+        {
+          "number": 4718,
+          "text": "وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّىٰ حِينٍ",
+          "numberInSurah": 43,
+          "juz": 27
+        },
+        {
+          "number": 4719,
+          "text": "فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ يَنْظُرُونَ",
+          "numberInSurah": 44,
+          "juz": 27
+        },
+        {
+          "number": 4720,
+          "text": "فَمَا اسْتَطَاعُوا مِنْ قِيَامٍ وَمَا كَانُوا مُنْتَصِرِينَ",
+          "numberInSurah": 45,
+          "juz": 27
+        },
+        {
+          "number": 4721,
+          "text": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ ۖ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+          "numberInSurah": 46,
+          "juz": 27
+        },
+        {
+          "number": 4722,
+          "text": "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ",
+          "numberInSurah": 47,
+          "juz": 27
+        },
+        {
+          "number": 4723,
+          "text": "وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ",
+          "numberInSurah": 48,
+          "juz": 27
+        },
+        {
+          "number": 4724,
+          "text": "وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+          "numberInSurah": 49,
+          "juz": 27
+        },
+        {
+          "number": 4725,
+          "text": "فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ",
+          "numberInSurah": 50,
+          "juz": 27
+        },
+        {
+          "number": 4726,
+          "text": "وَلَا تَجْعَلُوا مَعَ اللَّهِ إِلَٰهًا آخَرَ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ",
+          "numberInSurah": 51,
+          "juz": 27
+        },
+        {
+          "number": 4727,
+          "text": "كَذَٰلِكَ مَا أَتَى الَّذِينَ مِنْ قَبْلِهِمْ مِنْ رَسُولٍ إِلَّا قَالُوا سَاحِرٌ أَوْ مَجْنُونٌ",
+          "numberInSurah": 52,
+          "juz": 27
+        },
+        {
+          "number": 4728,
+          "text": "أَتَوَاصَوْا بِهِ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ",
+          "numberInSurah": 53,
+          "juz": 27
+        },
+        {
+          "number": 4729,
+          "text": "فَتَوَلَّ عَنْهُمْ فَمَا أَنْتَ بِمَلُومٍ",
+          "numberInSurah": 54,
+          "juz": 27
+        },
+        {
+          "number": 4730,
+          "text": "وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنْفَعُ الْمُؤْمِنِينَ",
+          "numberInSurah": 55,
+          "juz": 27
+        },
+        {
+          "number": 4731,
+          "text": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ",
+          "numberInSurah": 56,
+          "juz": 27
+        },
+        {
+          "number": 4732,
+          "text": "مَا أُرِيدُ مِنْهُمْ مِنْ رِزْقٍ وَمَا أُرِيدُ أَنْ يُطْعِمُونِ",
+          "numberInSurah": 57,
+          "juz": 27
+        },
+        {
+          "number": 4733,
+          "text": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+          "numberInSurah": 58,
+          "juz": 27
+        },
+        {
+          "number": 4734,
+          "text": "فَإِنَّ لِلَّذِينَ ظَلَمُوا ذَنُوبًا مِثْلَ ذَنُوبِ أَصْحَابِهِمْ فَلَا يَسْتَعْجِلُونِ",
+          "numberInSurah": 59,
+          "juz": 27
+        },
+        {
+          "number": 4735,
+          "text": "فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ يَوْمِهِمُ الَّذِي يُوعَدُونَ",
+          "numberInSurah": 60,
+          "juz": 27
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 51,
+      "name": "سورة الذاريات",
+      "englishName": "Adh-Dhaariyat",
+      "englishNameTranslation": "The Winnowing Winds",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 60,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 4676,
+          "text": "CONSIDER the winds that scatter the dust far and wide,",
+          "numberInSurah": 1,
+          "juz": 26
+        },
+        {
+          "number": 4677,
+          "text": "and those that carry the burden [of heavy clouds],",
+          "numberInSurah": 2,
+          "juz": 26
+        },
+        {
+          "number": 4678,
+          "text": "and those that speed along with gentle ease,",
+          "numberInSurah": 3,
+          "juz": 26
+        },
+        {
+          "number": 4679,
+          "text": "and those that apportion [the gift of life] at [God’s] behest!",
+          "numberInSurah": 4,
+          "juz": 26
+        },
+        {
+          "number": 4680,
+          "text": "Verily, that which you are promised is true indeed,",
+          "numberInSurah": 5,
+          "juz": 26
+        },
+        {
+          "number": 4681,
+          "text": "and, verily, judgment is bound to come!",
+          "numberInSurah": 6,
+          "juz": 26
+        },
+        {
+          "number": 4682,
+          "text": "CONSIDER the firmament full of starry paths!",
+          "numberInSurah": 7,
+          "juz": 26
+        },
+        {
+          "number": 4683,
+          "text": "Verily, [O men,] you are deeply at variance as to what to believe:",
+          "numberInSurah": 8,
+          "juz": 26
+        },
+        {
+          "number": 4684,
+          "text": "perverted in his views thereon is he who would deceive himself!",
+          "numberInSurah": 9,
+          "juz": 26
+        },
+        {
+          "number": 4685,
+          "text": "They but destroy themselves, they who are given to guessing at what they cannot ascertain –",
+          "numberInSurah": 10,
+          "juz": 26
+        },
+        {
+          "number": 4686,
+          "text": "they who blunder along, in ignorance lost –",
+          "numberInSurah": 11,
+          "juz": 26
+        },
+        {
+          "number": 4687,
+          "text": "they who [mockingly] ask, “When is that Day of Judgment to be?”",
+          "numberInSurah": 12,
+          "juz": 26
+        },
+        {
+          "number": 4688,
+          "text": "[It will be] a Day when they will be sorely tried by the fire,",
+          "numberInSurah": 13,
+          "juz": 26
+        },
+        {
+          "number": 4689,
+          "text": "[and will be told:] “Taste this your trial! It is this that you were so hastily asking for!”",
+          "numberInSurah": 14,
+          "juz": 26
+        },
+        {
+          "number": 4690,
+          "text": "[But,] behold, the God-conscious will find themselves amid gardens and springs,",
+          "numberInSurah": 15,
+          "juz": 26
+        },
+        {
+          "number": 4691,
+          "text": "enjoying all that their Sustainer will have granted them [because], verily, they were doers of good in the past:",
+          "numberInSurah": 16,
+          "juz": 26
+        },
+        {
+          "number": 4692,
+          "text": "they would lie asleep during but a small part of the night,",
+          "numberInSurah": 17,
+          "juz": 26
+        },
+        {
+          "number": 4693,
+          "text": "and would pray for forgiveness from their innermost hearts;",
+          "numberInSurah": 18,
+          "juz": 26
+        },
+        {
+          "number": 4694,
+          "text": "and [would assign] in all that they possessed a due share unto such as might ask [for help] and such as might suffer priva­tion.",
+          "numberInSurah": 19,
+          "juz": 26
+        },
+        {
+          "number": 4695,
+          "text": "AND ON EARTH there are signs [of God’s exis­tence, visible] to all who are endowed with inner certainty,",
+          "numberInSurah": 20,
+          "juz": 26
+        },
+        {
+          "number": 4696,
+          "text": "just as [there are signs thereof] within your own selves: can you not, then, see?",
+          "numberInSurah": 21,
+          "juz": 26
+        },
+        {
+          "number": 4697,
+          "text": "And in heaven is [the source of] your sus­tenance [on earth] and [of] all that you are promised [for your life after death]:",
+          "numberInSurah": 22,
+          "juz": 26
+        },
+        {
+          "number": 4698,
+          "text": "for, by the Sustainer of heaven and earth, this [life after death] is the very truth - as true as that you are endowed with speech!",
+          "numberInSurah": 23,
+          "juz": 26
+        },
+        {
+          "number": 4699,
+          "text": "AND HAS the story of Abraham’s honoured guests ever come within thy ken?",
+          "numberInSurah": 24,
+          "juz": 26
+        },
+        {
+          "number": 4700,
+          "text": "When those [heavenly messengers] came unto him and bade him peace, he answered, “[And upon you be] peace!” - [saying to himself,] “They are strangers.”",
+          "numberInSurah": 25,
+          "juz": 26
+        },
+        {
+          "number": 4701,
+          "text": "Then he turned quietly to his household, and brought forth a fat [roasted] calf,",
+          "numberInSurah": 26,
+          "juz": 26
+        },
+        {
+          "number": 4702,
+          "text": "and placed it before them, saying, “Will you not eat?”",
+          "numberInSurah": 27,
+          "juz": 26
+        },
+        {
+          "number": 4703,
+          "text": "[And when he saw that the guests would not eat,] he became apprehensive of them; [but] they said, “Fear not” - and gave him the glad tiding of [the birth of] a son who would be endowed with deep knowledge.",
+          "numberInSurah": 28,
+          "juz": 26
+        },
+        {
+          "number": 4704,
+          "text": "Thereupon his wife approached [the guests] with a loud cry, and struck her face [in astonishment] and exclaimed: “A barren old woman [like me]!”",
+          "numberInSurah": 29,
+          "juz": 26
+        },
+        {
+          "number": 4705,
+          "text": "They answered: “Thus has thy Sustainer decreed; and, verily, He alone is truly wise, all- knowing!”",
+          "numberInSurah": 30,
+          "juz": 26
+        },
+        {
+          "number": 4706,
+          "text": "Said [Abraham]: “And what [else] may you have in view, O you [heavenly] messengers?”",
+          "numberInSurah": 31,
+          "juz": 27
+        },
+        {
+          "number": 4707,
+          "text": "They answered: “Behold, we have been sent unto a people lost in sin,",
+          "numberInSurah": 32,
+          "juz": 27
+        },
+        {
+          "number": 4708,
+          "text": "to let loose upon them stone-hard blows of chastisement,",
+          "numberInSurah": 33,
+          "juz": 27
+        },
+        {
+          "number": 4709,
+          "text": "marked out in thy Sustainer’s sight for [the punishment of] such as have wasted their own selves.”",
+          "numberInSurah": 34,
+          "juz": 27
+        },
+        {
+          "number": 4710,
+          "text": "And in the course of time We brought out [of Lot ’s city] such [few] believers as were there:",
+          "numberInSurah": 35,
+          "juz": 27
+        },
+        {
+          "number": 4711,
+          "text": "for apart from one [single] house We did not find there any who had surrendered themselves to Us.",
+          "numberInSurah": 36,
+          "juz": 27
+        },
+        {
+          "number": 4712,
+          "text": "And so We left therein a message for those who fear the grievous suffering [which awaits all evildoers].",
+          "numberInSurah": 37,
+          "juz": 27
+        },
+        {
+          "number": 4713,
+          "text": "AND IN [the story of Pharaoh and] Moses, too, [We left the same message: for] when We sent him unto Pharaoh with [Our] manifest authority,",
+          "numberInSurah": 38,
+          "juz": 27
+        },
+        {
+          "number": 4714,
+          "text": "and he turned away in [the pride of] his power and said, “A sorcerer [is this Moses], or a madman!” –",
+          "numberInSurah": 39,
+          "juz": 27
+        },
+        {
+          "number": 4715,
+          "text": "We seized him and his hosts, and cast them all into the sea: and [none but Pharaoh] himself was to blame [for what happened].",
+          "numberInSurah": 40,
+          "juz": 27
+        },
+        {
+          "number": 4716,
+          "text": "And [you have the same message] in [what happened to the tribe of] Ad, when We let loose against them that life-destroying wind",
+          "numberInSurah": 41,
+          "juz": 27
+        },
+        {
+          "number": 4717,
+          "text": "which spared nothing of what it came upon, but caused [all of] it to become like bones dead and decayed.",
+          "numberInSurah": 42,
+          "juz": 27
+        },
+        {
+          "number": 4718,
+          "text": "And in [the story of the tribe of] Thamud, too, when they were told, “You shall enjoy your life for [but] a little while,”",
+          "numberInSurah": 43,
+          "juz": 27
+        },
+        {
+          "number": 4719,
+          "text": "after they had turned with disdain from their Sustainer’s commandment - whereupon the thunderbolt of punishment overtook them while they were [helplessly] looking on:",
+          "numberInSurah": 44,
+          "juz": 27
+        },
+        {
+          "number": 4720,
+          "text": "for they were unable even to rise, and could not defend themselves.",
+          "numberInSurah": 45,
+          "juz": 27
+        },
+        {
+          "number": 4721,
+          "text": "And [thus, too, We destroyed] Noah’s people aforetime: for they were iniquitous folk.",
+          "numberInSurah": 46,
+          "juz": 27
+        },
+        {
+          "number": 4722,
+          "text": "AND IT IS We who have built the universe with [Our creative] power; and, verily, it is We who are steadily expanding it.",
+          "numberInSurah": 47,
+          "juz": 27
+        },
+        {
+          "number": 4723,
+          "text": "And the earth have We spread out wide - and how well have We ordered it!",
+          "numberInSurah": 48,
+          "juz": 27
+        },
+        {
+          "number": 4724,
+          "text": "And in everything have We created oppos­ites, so that you might bear in mind [that God alone is One].",
+          "numberInSurah": 49,
+          "juz": 27
+        },
+        {
+          "number": 4725,
+          "text": "And so, [O Muhammad, say unto them:] “Flee unto God [from all that is false and evil]! Verily, I am a plain warner to you from Him!",
+          "numberInSurah": 50,
+          "juz": 27
+        },
+        {
+          "number": 4726,
+          "text": "And do not ascribe divinity to aught side by side with God: verily, I am a plain warner to you from Him!”",
+          "numberInSurah": 51,
+          "juz": 27
+        },
+        {
+          "number": 4727,
+          "text": "[But] thus it is: never yet came any apostle to those who lived before their time but they said, “A spellbinder [Lit., \"sorcerer\".] [is he], or a madman!”",
+          "numberInSurah": 52,
+          "juz": 27
+        },
+        {
+          "number": 4728,
+          "text": "Have they, perchance, handed down this [way of thinking] as a legacy unto one another? Nay, they are people filled with overweening ar­rogance!",
+          "numberInSurah": 53,
+          "juz": 27
+        },
+        {
+          "number": 4729,
+          "text": "Turn, then, away from them, and thou shalt incur no blame;",
+          "numberInSurah": 54,
+          "juz": 27
+        },
+        {
+          "number": 4730,
+          "text": "yet go on reminding [all who would listen]: for, verily, such a reminder will profit the believers.",
+          "numberInSurah": 55,
+          "juz": 27
+        },
+        {
+          "number": 4731,
+          "text": "And [tell them that] I have not created the invisible beings and men to any end other than that they may [know and] worship Me.",
+          "numberInSurah": 56,
+          "juz": 27
+        },
+        {
+          "number": 4732,
+          "text": "[But withal,] no sustenance do I ever demand of them, nor do I demand that they feed Me:",
+          "numberInSurah": 57,
+          "juz": 27
+        },
+        {
+          "number": 4733,
+          "text": "for, verily, God Himself is the Provider of all sustenance, the Lord of all might, the Eternal!",
+          "numberInSurah": 58,
+          "juz": 27
+        },
+        {
+          "number": 4734,
+          "text": "And, verily, they who are bent on doing evil shall have their share [of evil] like unto the share of their fellows [of old]: so let them not ask Me to hasten [their doom]!",
+          "numberInSurah": 59,
+          "juz": 27
+        },
+        {
+          "number": 4735,
+          "text": "For, woe unto those who are bent on denying the truth - [woe] on the Day which they have been promised",
+          "numberInSurah": 60,
+          "juz": 27
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

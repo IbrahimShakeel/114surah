@@ -1,0 +1,99 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 106,
+      "name": "سورة قريش",
+      "englishName": "Quraish",
+      "englishNameTranslation": "Quraysh",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 4,
+      "ayahs": [
+        {
+          "number": 6194,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6194,
+          "text": "لِإِيلَافِ قُرَيْشٍ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6195,
+          "text": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6196,
+          "text": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6197,
+          "text": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+          "numberInSurah": 4,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 106,
+      "name": "سورة قريش",
+      "englishName": "Quraish",
+      "englishNameTranslation": "Quraysh",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 4,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6194,
+          "text": "SO THAT the Quraysh might remain secure,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6195,
+          "text": "secure in their winter and summer journeys,",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6196,
+          "text": "Let them, therefore, worship the Sustainer of this Temple;",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6197,
+          "text": "who has given them food against hunger, and made them safe from danger.",
+          "numberInSurah": 4,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 103,
+      "name": "سورة العصر",
+      "englishName": "Al-Asr",
+      "englishNameTranslation": "The Declining Day, Epoch",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 3,
+      "ayahs": [
+        {
+          "number": 6177,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6177,
+          "text": "وَالْعَصْرِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6178,
+          "text": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6179,
+          "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+          "numberInSurah": 3,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 103,
+      "name": "سورة العصر",
+      "englishName": "Al-Asr",
+      "englishNameTranslation": "The Declining Day, Epoch",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 3,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6177,
+          "text": "CONSIDER the flight of time!",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6178,
+          "text": "Verily, man is bound to lose himself",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6179,
+          "text": "unless he be of those who attain to faith, and do good works, and enjoin upon one another the keeping to truth, and enjoin upon one another patience in adversity.",
+          "numberInSurah": 3,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

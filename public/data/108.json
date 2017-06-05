@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 108,
+      "name": "سورة الكوثر",
+      "englishName": "Al-Kawthar",
+      "englishNameTranslation": "Abundance",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 3,
+      "ayahs": [
+        {
+          "number": 6205,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6205,
+          "text": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6206,
+          "text": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6207,
+          "text": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+          "numberInSurah": 3,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 108,
+      "name": "سورة الكوثر",
+      "englishName": "Al-Kawthar",
+      "englishNameTranslation": "Abundance",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 3,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6205,
+          "text": "BEHOLD, We have bestowed upon thee good in abundance:",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6206,
+          "text": "hence, pray unto thy Sustainer [alone], and sacrifice [unto Him alone].",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6207,
+          "text": "Verily, he that hates thee has indeed been cut off [from all that is good]!",
+          "numberInSurah": 3,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

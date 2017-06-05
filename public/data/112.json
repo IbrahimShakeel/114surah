@@ -1,0 +1,99 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 112,
+      "name": "سورة الإخلاص",
+      "englishName": "Al-Ikhlaas",
+      "englishNameTranslation": "Sincerity",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 4,
+      "ayahs": [
+        {
+          "number": 6222,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6222,
+          "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6223,
+          "text": "اللَّهُ الصَّمَدُ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6224,
+          "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6225,
+          "text": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+          "numberInSurah": 4,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 112,
+      "name": "سورة الإخلاص",
+      "englishName": "Al-Ikhlaas",
+      "englishNameTranslation": "Sincerity",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 4,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6222,
+          "text": "SAY: \"He is the One God:",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6223,
+          "text": "\"God the Eternal, the Uncaused Cause of All Being.",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6224,
+          "text": "\"He begets not, and neither is He begotten;",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6225,
+          "text": "\"and there is nothing that could be compared with Him.",
+          "numberInSurah": 4,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

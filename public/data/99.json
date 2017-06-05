@@ -1,0 +1,147 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 99,
+      "name": "سورة الزلزلة",
+      "englishName": "Az-Zalzala",
+      "englishNameTranslation": "The Earthquake",
+      "revelationType": "Medinan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "number": 6139,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6139,
+          "text": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6140,
+          "text": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6141,
+          "text": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6142,
+          "text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6143,
+          "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6144,
+          "text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6145,
+          "text": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6146,
+          "text": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 99,
+      "name": "سورة الزلزلة",
+      "englishName": "Az-Zalzala",
+      "englishNameTranslation": "The Earthquake",
+      "revelationType": "Medinan",
+      "numberOfAyahs": 8,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6139,
+          "text": "WHEN THE EARTH quakes with her [last] mighty quaking,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6140,
+          "text": "and [when] the earth yields up her burdens,",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6141,
+          "text": "and man cries out, \"What has happened to her?\" -",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6142,
+          "text": "on that Day will she recount all her tidings,",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6143,
+          "text": "as thy Sustainer will have inspired her to do!",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6144,
+          "text": "On that Day will all men come forward, cut off from one another, to be shown their [past] deeds.",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6145,
+          "text": "And so, he who shall have done an atom's weight of good, shall behold it;",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6146,
+          "text": "and he who shall have done an atom's weight of evil, shall behold it.",
+          "numberInSurah": 8,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

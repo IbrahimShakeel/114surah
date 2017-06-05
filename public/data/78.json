@@ -1,0 +1,531 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 78,
+      "name": "سورة النبإ",
+      "englishName": "An-Naba",
+      "englishNameTranslation": "The Announcement",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 40,
+      "ayahs": [
+        {
+          "number": 5673,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5673,
+          "text": "عَمَّ يَتَسَاءَلُونَ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5674,
+          "text": "عَنِ النَّبَإِ الْعَظِيمِ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5675,
+          "text": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5676,
+          "text": "كَلَّا سَيَعْلَمُونَ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5677,
+          "text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5678,
+          "text": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5679,
+          "text": "وَالْجِبَالَ أَوْتَادًا",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5680,
+          "text": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5681,
+          "text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5682,
+          "text": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5683,
+          "text": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5684,
+          "text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5685,
+          "text": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5686,
+          "text": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5687,
+          "text": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5688,
+          "text": "وَجَنَّاتٍ أَلْفَافًا",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5689,
+          "text": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5690,
+          "text": "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5691,
+          "text": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5692,
+          "text": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5693,
+          "text": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5694,
+          "text": "لِلطَّاغِينَ مَآبًا",
+          "numberInSurah": 22,
+          "juz": 30
+        },
+        {
+          "number": 5695,
+          "text": "لَابِثِينَ فِيهَا أَحْقَابًا",
+          "numberInSurah": 23,
+          "juz": 30
+        },
+        {
+          "number": 5696,
+          "text": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+          "numberInSurah": 24,
+          "juz": 30
+        },
+        {
+          "number": 5697,
+          "text": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+          "numberInSurah": 25,
+          "juz": 30
+        },
+        {
+          "number": 5698,
+          "text": "جَزَاءً وِفَاقًا",
+          "numberInSurah": 26,
+          "juz": 30
+        },
+        {
+          "number": 5699,
+          "text": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+          "numberInSurah": 27,
+          "juz": 30
+        },
+        {
+          "number": 5700,
+          "text": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
+          "numberInSurah": 28,
+          "juz": 30
+        },
+        {
+          "number": 5701,
+          "text": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
+          "numberInSurah": 29,
+          "juz": 30
+        },
+        {
+          "number": 5702,
+          "text": "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا",
+          "numberInSurah": 30,
+          "juz": 30
+        },
+        {
+          "number": 5703,
+          "text": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+          "numberInSurah": 31,
+          "juz": 30
+        },
+        {
+          "number": 5704,
+          "text": "حَدَائِقَ وَأَعْنَابًا",
+          "numberInSurah": 32,
+          "juz": 30
+        },
+        {
+          "number": 5705,
+          "text": "وَكَوَاعِبَ أَتْرَابًا",
+          "numberInSurah": 33,
+          "juz": 30
+        },
+        {
+          "number": 5706,
+          "text": "وَكَأْسًا دِهَاقًا",
+          "numberInSurah": 34,
+          "juz": 30
+        },
+        {
+          "number": 5707,
+          "text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
+          "numberInSurah": 35,
+          "juz": 30
+        },
+        {
+          "number": 5708,
+          "text": "جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا",
+          "numberInSurah": 36,
+          "juz": 30
+        },
+        {
+          "number": 5709,
+          "text": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+          "numberInSurah": 37,
+          "juz": 30
+        },
+        {
+          "number": 5710,
+          "text": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا",
+          "numberInSurah": 38,
+          "juz": 30
+        },
+        {
+          "number": 5711,
+          "text": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا",
+          "numberInSurah": 39,
+          "juz": 30
+        },
+        {
+          "number": 5712,
+          "text": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا",
+          "numberInSurah": 40,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 78,
+      "name": "سورة النبإ",
+      "englishName": "An-Naba",
+      "englishNameTranslation": "The Announcement",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 40,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 5673,
+          "text": "ABOUT WHAT do they [most often] ask one another?",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5674,
+          "text": "About the awesome tiding [of resurrection],",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5675,
+          "text": "on which they [so utterly] disagree.",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5676,
+          "text": "Nay, but in time they will come to understand [it]!",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5677,
+          "text": "And once again: Nay, but in time they will come to understand!",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5678,
+          "text": "HAVE WE NOT made the earth a resting-place [for you],",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5679,
+          "text": "and the mountains [its] pegs?",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5680,
+          "text": "And We have created you in pairs;",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5681,
+          "text": "and We have made your sleep [a symbol of] death",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5682,
+          "text": "and made the night [its] cloak",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5683,
+          "text": "and made the day [a symbol of] life.",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5684,
+          "text": "And We have built above you seven firmaments,",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5685,
+          "text": "and have placed [therein the sun,] a lamp full of blazing splendour.",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5686,
+          "text": "And from the wind-driven clouds We send down waters pouring in abundance,",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5687,
+          "text": "so that We might bring forth thereby grain, and herbs,",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5688,
+          "text": "and gardens dense with follage.",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5689,
+          "text": "VERILY, the Day of Distinction [between the true and the false] has indeed its appointed time:",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5690,
+          "text": "the Day when the trumpet [of resurrection] is sounded and you all come forward in multitudes;",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5691,
+          "text": "and when the skies are opened and become [as wide-flung] gates;",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5692,
+          "text": "and when the mountains are made to vanish as if they had been a mirage.",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5693,
+          "text": "[On that Day,] verily, hell will lie in wait [for those who deny the truth] –",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5694,
+          "text": "a goal for all who are wont to transgress the bounds of what is right!",
+          "numberInSurah": 22,
+          "juz": 30
+        },
+        {
+          "number": 5695,
+          "text": "In it shall they remain for a long time.",
+          "numberInSurah": 23,
+          "juz": 30
+        },
+        {
+          "number": 5696,
+          "text": "Neither coolness shall they taste therein nor any [thirst-quenching] drink –",
+          "numberInSurah": 24,
+          "juz": 30
+        },
+        {
+          "number": 5697,
+          "text": "only burning despair and ice-cold darkness:",
+          "numberInSurah": 25,
+          "juz": 30
+        },
+        {
+          "number": 5698,
+          "text": "a meet requital [for their sins]!",
+          "numberInSurah": 26,
+          "juz": 30
+        },
+        {
+          "number": 5699,
+          "text": "Behold, they were not expecting to be called to account,",
+          "numberInSurah": 27,
+          "juz": 30
+        },
+        {
+          "number": 5700,
+          "text": "having given the lie to Our messages one and all:",
+          "numberInSurah": 28,
+          "juz": 30
+        },
+        {
+          "number": 5701,
+          "text": "but We have placed on record every single thing [of what they did].",
+          "numberInSurah": 29,
+          "juz": 30
+        },
+        {
+          "number": 5702,
+          "text": "[And so We shall say:] \"Taste, then, [the fruit of your evil doings,] for now We shall bestow on you nothing but more and more suffering!\"",
+          "numberInSurah": 30,
+          "juz": 30
+        },
+        {
+          "number": 5703,
+          "text": "[But,] verily for the God-conscious there is supreme fulfilment in store:",
+          "numberInSurah": 31,
+          "juz": 30
+        },
+        {
+          "number": 5704,
+          "text": "luxuriant gardens and vinyards,",
+          "numberInSurah": 32,
+          "juz": 30
+        },
+        {
+          "number": 5705,
+          "text": "and splendid companions well matched,",
+          "numberInSurah": 33,
+          "juz": 30
+        },
+        {
+          "number": 5706,
+          "text": "and a cup [of happiness] overflowing.",
+          "numberInSurah": 34,
+          "juz": 30
+        },
+        {
+          "number": 5707,
+          "text": "No empty talk will they hear in that [paradise], nor any lie.",
+          "numberInSurah": 35,
+          "juz": 30
+        },
+        {
+          "number": 5708,
+          "text": "[All this will be] a reward from thy Sustainer, a gift in accordance with [His Own] reckoning –",
+          "numberInSurah": 36,
+          "juz": 30
+        },
+        {
+          "number": 5709,
+          "text": "[a reward from] the Sustainer of the heavens and the earth and all that is between them, the Most Gracious! [And] none shall have it in their power to raise their voices unto Him",
+          "numberInSurah": 37,
+          "juz": 30
+        },
+        {
+          "number": 5710,
+          "text": "on the Day when all [human] souls and all the angels will stand up in ranks: none will speak but he to whom the Most Gracious will have given leave; and [everyone] will say [only] what is right.",
+          "numberInSurah": 38,
+          "juz": 30
+        },
+        {
+          "number": 5711,
+          "text": "That will be the Day of Ultimate Truth: whoever wills, then, let him take the path that leads towards his Sustainer!",
+          "numberInSurah": 39,
+          "juz": 30
+        },
+        {
+          "number": 5712,
+          "text": "Verily, We have warned you of suffering near at hand - [suffering] on the Day when man shall [clearly] see what his hands have sent ahead, and when he who has denied the truth shall say, \"Oh, would that I were mere dust...!\"",
+          "numberInSurah": 40,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

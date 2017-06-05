@@ -1,0 +1,255 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 86,
+      "name": "سورة الطارق",
+      "englishName": "At-Taariq",
+      "englishNameTranslation": "The Morning Star",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 17,
+      "ayahs": [
+        {
+          "number": 5932,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5932,
+          "text": "وَالسَّمَاءِ وَالطَّارِقِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5933,
+          "text": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5934,
+          "text": "النَّجْمُ الثَّاقِبُ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5935,
+          "text": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5936,
+          "text": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5937,
+          "text": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5938,
+          "text": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5939,
+          "text": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5940,
+          "text": "يَوْمَ تُبْلَى السَّرَائِرُ",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5941,
+          "text": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5942,
+          "text": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5943,
+          "text": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5944,
+          "text": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5945,
+          "text": "وَمَا هُوَ بِالْهَزْلِ",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5946,
+          "text": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5947,
+          "text": "وَأَكِيدُ كَيْدًا",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5948,
+          "text": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+          "numberInSurah": 17,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 86,
+      "name": "سورة الطارق",
+      "englishName": "At-Taariq",
+      "englishNameTranslation": "The Morning Star",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 17,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 5932,
+          "text": "CONSIDER the heavens and that which comes in the night!",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5933,
+          "text": "And what could make thee conceive what it is that comes in the night?",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5934,
+          "text": "It is the star that pierces through [life's] darkness:",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5935,
+          "text": "[for] no human being has ever been left unguarded.",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5936,
+          "text": "LET MAN, then, observe out of what he has been created:",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5937,
+          "text": "he has been created out of a seminal fluid",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5938,
+          "text": "issuing from between the loins [of man] and the pelvic arch [of woman].",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5939,
+          "text": "Now, verily, He [who thus creates man in the first instance] is well able to bring him back [to life]",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5940,
+          "text": "on the Day when all secrets will be laid bare,",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5941,
+          "text": "and [man] will have neither strength nor helper!",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5942,
+          "text": "Consider the heavens, ever-revolving,",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5943,
+          "text": "and the earth, bursting forth with plants!",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5944,
+          "text": "BEHOLD, this [divine writ] is indeed a word that between truth and falsehood,",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5945,
+          "text": "and is no idle tale.",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5946,
+          "text": "Behold, they [who refuse to accept it] devise many a false argument [to disprove its truth];",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5947,
+          "text": "but I shall bring all their scheming to nought.",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5948,
+          "text": "Let, then, the deniers of the truth have their will: let them have their will for a little while.",
+          "numberInSurah": 17,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

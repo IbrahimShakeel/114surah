@@ -1,0 +1,315 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 85,
+      "name": "سورة البروج",
+      "englishName": "Al-Burooj",
+      "englishNameTranslation": "The Constellations",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 22,
+      "ayahs": [
+        {
+          "number": 5910,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5910,
+          "text": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5911,
+          "text": "وَالْيَوْمِ الْمَوْعُودِ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5912,
+          "text": "وَشَاهِدٍ وَمَشْهُودٍ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5913,
+          "text": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5914,
+          "text": "النَّارِ ذَاتِ الْوَقُودِ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5915,
+          "text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5916,
+          "text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5917,
+          "text": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5918,
+          "text": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5919,
+          "text": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5920,
+          "text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5921,
+          "text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5922,
+          "text": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5923,
+          "text": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5924,
+          "text": "ذُو الْعَرْشِ الْمَجِيدُ",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5925,
+          "text": "فَعَّالٌ لِمَا يُرِيدُ",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5926,
+          "text": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5927,
+          "text": "فِرْعَوْنَ وَثَمُودَ",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5928,
+          "text": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5929,
+          "text": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5930,
+          "text": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5931,
+          "text": "فِي لَوْحٍ مَحْفُوظٍ",
+          "numberInSurah": 22,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 85,
+      "name": "سورة البروج",
+      "englishName": "Al-Burooj",
+      "englishNameTranslation": "The Constellations",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 22,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 5910,
+          "text": "CONSIDER the sky full of great constellations,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5911,
+          "text": "and [then bethink thyself of] the promised Day,",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5912,
+          "text": "and [of] Him who witnesses [all], and [of] that unto which witness is borne [by Him]!",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5913,
+          "text": "THEY DESTROY [but] themselves, they who would ready a pit",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5914,
+          "text": "of fire fiercely burning [for all who have attained to faith]!",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5915,
+          "text": "Lo! [With glee do] they contemplate that [fire],",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5916,
+          "text": "fully conscious of what they are doing to the believers,",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5917,
+          "text": "whom they hate for no other reason than that they believe in God, the Almighty, the One to whom all praise is due,",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5918,
+          "text": "[and] to whom the dominion of the heavens and the earth belongs. But God is witness unto everything!",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5919,
+          "text": "Verily, as for those who persecute believing men and believing women, and thereafter do not repent, hell's suffering awaits them: yea, suffering through fire awaits them!",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5920,
+          "text": "[But,] verily, they who attain to faith and do righteous deeds shall [in the life to come] have gardens through which running waters flow - that triumph most great!",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5921,
+          "text": "VERILY, thy Sustainer's grip is exceedingly strong!",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5922,
+          "text": "Behold, it is He who creates [man] in the first instance, and He [it is who] will bring him forth anew.",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5923,
+          "text": "And He alone is truly-forgiving, all-embracing in His love,",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5924,
+          "text": "in sublime almightiness enthroned,",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5925,
+          "text": "a sovereign doer of whatever He wills.",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5926,
+          "text": "HAS IT ever come within thy ken, the story of the [sinful] hosts",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5927,
+          "text": "of Pharaoh, and of [the tribe of] Thamud?",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5928,
+          "text": "And yet, they who are bent on denying the truth persist in giving it the lie:",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5929,
+          "text": "but all the while God encompasses them [with His knowledge and might] without their being aware of it.",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5930,
+          "text": "Nay, but this [divine writ which they reject] is a discourse sublime,",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5931,
+          "text": "upon an imperishable tablet [inscribed].",
+          "numberInSurah": 22,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

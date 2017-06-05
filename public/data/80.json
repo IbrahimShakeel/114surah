@@ -1,0 +1,555 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 80,
+      "name": "سورة عبس",
+      "englishName": "Abasa",
+      "englishNameTranslation": "He frowned",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 42,
+      "ayahs": [
+        {
+          "number": 5759,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5759,
+          "text": "عَبَسَ وَتَوَلَّىٰ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5760,
+          "text": "أَنْ جَاءَهُ الْأَعْمَىٰ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5761,
+          "text": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5762,
+          "text": "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5763,
+          "text": "أَمَّا مَنِ اسْتَغْنَىٰ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5764,
+          "text": "فَأَنْتَ لَهُ تَصَدَّىٰ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5765,
+          "text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5766,
+          "text": "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5767,
+          "text": "وَهُوَ يَخْشَىٰ",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5768,
+          "text": "فَأَنْتَ عَنْهُ تَلَهَّىٰ",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5769,
+          "text": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5770,
+          "text": "فَمَنْ شَاءَ ذَكَرَهُ",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5771,
+          "text": "فِي صُحُفٍ مُكَرَّمَةٍ",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5772,
+          "text": "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5773,
+          "text": "بِأَيْدِي سَفَرَةٍ",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5774,
+          "text": "كِرَامٍ بَرَرَةٍ",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5775,
+          "text": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5776,
+          "text": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5777,
+          "text": "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5778,
+          "text": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5779,
+          "text": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5780,
+          "text": "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+          "numberInSurah": 22,
+          "juz": 30
+        },
+        {
+          "number": 5781,
+          "text": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+          "numberInSurah": 23,
+          "juz": 30
+        },
+        {
+          "number": 5782,
+          "text": "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ",
+          "numberInSurah": 24,
+          "juz": 30
+        },
+        {
+          "number": 5783,
+          "text": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+          "numberInSurah": 25,
+          "juz": 30
+        },
+        {
+          "number": 5784,
+          "text": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+          "numberInSurah": 26,
+          "juz": 30
+        },
+        {
+          "number": 5785,
+          "text": "فَأَنْبَتْنَا فِيهَا حَبًّا",
+          "numberInSurah": 27,
+          "juz": 30
+        },
+        {
+          "number": 5786,
+          "text": "وَعِنَبًا وَقَضْبًا",
+          "numberInSurah": 28,
+          "juz": 30
+        },
+        {
+          "number": 5787,
+          "text": "وَزَيْتُونًا وَنَخْلًا",
+          "numberInSurah": 29,
+          "juz": 30
+        },
+        {
+          "number": 5788,
+          "text": "وَحَدَائِقَ غُلْبًا",
+          "numberInSurah": 30,
+          "juz": 30
+        },
+        {
+          "number": 5789,
+          "text": "وَفَاكِهَةً وَأَبًّا",
+          "numberInSurah": 31,
+          "juz": 30
+        },
+        {
+          "number": 5790,
+          "text": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+          "numberInSurah": 32,
+          "juz": 30
+        },
+        {
+          "number": 5791,
+          "text": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+          "numberInSurah": 33,
+          "juz": 30
+        },
+        {
+          "number": 5792,
+          "text": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+          "numberInSurah": 34,
+          "juz": 30
+        },
+        {
+          "number": 5793,
+          "text": "وَأُمِّهِ وَأَبِيهِ",
+          "numberInSurah": 35,
+          "juz": 30
+        },
+        {
+          "number": 5794,
+          "text": "وَصَاحِبَتِهِ وَبَنِيهِ",
+          "numberInSurah": 36,
+          "juz": 30
+        },
+        {
+          "number": 5795,
+          "text": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+          "numberInSurah": 37,
+          "juz": 30
+        },
+        {
+          "number": 5796,
+          "text": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+          "numberInSurah": 38,
+          "juz": 30
+        },
+        {
+          "number": 5797,
+          "text": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+          "numberInSurah": 39,
+          "juz": 30
+        },
+        {
+          "number": 5798,
+          "text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+          "numberInSurah": 40,
+          "juz": 30
+        },
+        {
+          "number": 5799,
+          "text": "تَرْهَقُهَا قَتَرَةٌ",
+          "numberInSurah": 41,
+          "juz": 30
+        },
+        {
+          "number": 5800,
+          "text": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+          "numberInSurah": 42,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 80,
+      "name": "سورة عبس",
+      "englishName": "Abasa",
+      "englishNameTranslation": "He frowned",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 42,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 5759,
+          "text": "HE FROWNED and turned away",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5760,
+          "text": "because the blind man approached him!",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5761,
+          "text": "Yet for all thou didst know, [O Muhammad,] he might perhaps have grown in purity,",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5762,
+          "text": "or have been reminded [of the truth], and helped by this reminder.",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5763,
+          "text": "Now as for him who believes himself to be self-sufficient",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5764,
+          "text": "to him didst thou give thy whole attention,",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5765,
+          "text": "although thou art not accountable for his failure to attain to purity;",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5766,
+          "text": "but as for him who came unto thee full of eagerness",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5767,
+          "text": "and in awe [of God]",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5768,
+          "text": "him didst thou disregard!",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5769,
+          "text": "NAY, VERILY, these [messages] are but a reminder:",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5770,
+          "text": "and so, whoever is willing may remember Him",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5771,
+          "text": "in [the light of His] revelations blest with dignity,",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5772,
+          "text": "lofty and pure,",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5773,
+          "text": "[borne] by the hands of messengers",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5774,
+          "text": "noble and most virtuous.",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5775,
+          "text": "[But only too often] man destroys himself: how stubbornly does he deny the truth!",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5776,
+          "text": "[Does man ever consider] out of what substance [God] creates him?",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5777,
+          "text": "Out of a drop of sperm He creates him, and thereupon determines his nature,",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5778,
+          "text": "and then makes it easy for him to go through life;",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5779,
+          "text": "and in the end He causes him to die and brings him to the grave;",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5780,
+          "text": "and then, if it be His will, He shall raise him again to life,",
+          "numberInSurah": 22,
+          "juz": 30
+        },
+        {
+          "number": 5781,
+          "text": "Nay, but [man] has never yet fulfilled what He has enjoined upon him!",
+          "numberInSurah": 23,
+          "juz": 30
+        },
+        {
+          "number": 5782,
+          "text": "Let man, then, consider [the sources of] his food:",
+          "numberInSurah": 24,
+          "juz": 30
+        },
+        {
+          "number": 5783,
+          "text": "[how it is] that We pour down water, pouring it down abundantly;",
+          "numberInSurah": 25,
+          "juz": 30
+        },
+        {
+          "number": 5784,
+          "text": "and then We cleave the earth [with new growth], cleaving it asunder,",
+          "numberInSurah": 26,
+          "juz": 30
+        },
+        {
+          "number": 5785,
+          "text": "and thereupon We cause grain to grow out of it,",
+          "numberInSurah": 27,
+          "juz": 30
+        },
+        {
+          "number": 5786,
+          "text": "and vines and edible plants,",
+          "numberInSurah": 28,
+          "juz": 30
+        },
+        {
+          "number": 5787,
+          "text": "and olive trees and date-palms,",
+          "numberInSurah": 29,
+          "juz": 30
+        },
+        {
+          "number": 5788,
+          "text": "and gardens dense with foliage,",
+          "numberInSurah": 30,
+          "juz": 30
+        },
+        {
+          "number": 5789,
+          "text": "and fruits and herbage,",
+          "numberInSurah": 31,
+          "juz": 30
+        },
+        {
+          "number": 5790,
+          "text": "for you and for your animals to enjoy.",
+          "numberInSurah": 32,
+          "juz": 30
+        },
+        {
+          "number": 5791,
+          "text": "AND SO, when the piercing call [of resurrection] is heard",
+          "numberInSurah": 33,
+          "juz": 30
+        },
+        {
+          "number": 5792,
+          "text": "on a Day when everyone will [want to] flee from his brother,",
+          "numberInSurah": 34,
+          "juz": 30
+        },
+        {
+          "number": 5793,
+          "text": "and from his mother and father,",
+          "numberInSurah": 35,
+          "juz": 30
+        },
+        {
+          "number": 5794,
+          "text": "and from his spouse and his children:",
+          "numberInSurah": 36,
+          "juz": 30
+        },
+        {
+          "number": 5795,
+          "text": "on that Day, to every one of them will his own state be of sufficient concern.",
+          "numberInSurah": 37,
+          "juz": 30
+        },
+        {
+          "number": 5796,
+          "text": "Some faces will on that Day be bright with happiness,",
+          "numberInSurah": 38,
+          "juz": 30
+        },
+        {
+          "number": 5797,
+          "text": "laughing, rejoicing at glad tidings.",
+          "numberInSurah": 39,
+          "juz": 30
+        },
+        {
+          "number": 5798,
+          "text": "And some faces will on that Day with dust be covered,",
+          "numberInSurah": 40,
+          "juz": 30
+        },
+        {
+          "number": 5799,
+          "text": "with darkness overspread:",
+          "numberInSurah": 41,
+          "juz": 30
+        },
+        {
+          "number": 5800,
+          "text": "these, these will be the ones who denied the truth and were immersed in iniquity!",
+          "numberInSurah": 42,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

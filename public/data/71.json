@@ -1,0 +1,387 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 71,
+      "name": "سورة نوح",
+      "englishName": "Nooh",
+      "englishNameTranslation": "Noah",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 28,
+      "ayahs": [
+        {
+          "number": 5420,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 29
+        },
+        {
+          "number": 5420,
+          "text": "إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+          "numberInSurah": 1,
+          "juz": 29
+        },
+        {
+          "number": 5421,
+          "text": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+          "numberInSurah": 2,
+          "juz": 29
+        },
+        {
+          "number": 5422,
+          "text": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+          "numberInSurah": 3,
+          "juz": 29
+        },
+        {
+          "number": 5423,
+          "text": "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنْتُمْ تَعْلَمُونَ",
+          "numberInSurah": 4,
+          "juz": 29
+        },
+        {
+          "number": 5424,
+          "text": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+          "numberInSurah": 5,
+          "juz": 29
+        },
+        {
+          "number": 5425,
+          "text": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+          "numberInSurah": 6,
+          "juz": 29
+        },
+        {
+          "number": 5426,
+          "text": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+          "numberInSurah": 7,
+          "juz": 29
+        },
+        {
+          "number": 5427,
+          "text": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+          "numberInSurah": 8,
+          "juz": 29
+        },
+        {
+          "number": 5428,
+          "text": "ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+          "numberInSurah": 9,
+          "juz": 29
+        },
+        {
+          "number": 5429,
+          "text": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+          "numberInSurah": 10,
+          "juz": 29
+        },
+        {
+          "number": 5430,
+          "text": "يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا",
+          "numberInSurah": 11,
+          "juz": 29
+        },
+        {
+          "number": 5431,
+          "text": "وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا",
+          "numberInSurah": 12,
+          "juz": 29
+        },
+        {
+          "number": 5432,
+          "text": "مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+          "numberInSurah": 13,
+          "juz": 29
+        },
+        {
+          "number": 5433,
+          "text": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+          "numberInSurah": 14,
+          "juz": 29
+        },
+        {
+          "number": 5434,
+          "text": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+          "numberInSurah": 15,
+          "juz": 29
+        },
+        {
+          "number": 5435,
+          "text": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+          "numberInSurah": 16,
+          "juz": 29
+        },
+        {
+          "number": 5436,
+          "text": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+          "numberInSurah": 17,
+          "juz": 29
+        },
+        {
+          "number": 5437,
+          "text": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+          "numberInSurah": 18,
+          "juz": 29
+        },
+        {
+          "number": 5438,
+          "text": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
+          "numberInSurah": 19,
+          "juz": 29
+        },
+        {
+          "number": 5439,
+          "text": "لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
+          "numberInSurah": 20,
+          "juz": 29
+        },
+        {
+          "number": 5440,
+          "text": "قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+          "numberInSurah": 21,
+          "juz": 29
+        },
+        {
+          "number": 5441,
+          "text": "وَمَكَرُوا مَكْرًا كُبَّارًا",
+          "numberInSurah": 22,
+          "juz": 29
+        },
+        {
+          "number": 5442,
+          "text": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+          "numberInSurah": 23,
+          "juz": 29
+        },
+        {
+          "number": 5443,
+          "text": "وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+          "numberInSurah": 24,
+          "juz": 29
+        },
+        {
+          "number": 5444,
+          "text": "مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا",
+          "numberInSurah": 25,
+          "juz": 29
+        },
+        {
+          "number": 5445,
+          "text": "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+          "numberInSurah": 26,
+          "juz": 29
+        },
+        {
+          "number": 5446,
+          "text": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+          "numberInSurah": 27,
+          "juz": 29
+        },
+        {
+          "number": 5447,
+          "text": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+          "numberInSurah": 28,
+          "juz": 29
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 71,
+      "name": "سورة نوح",
+      "englishName": "Nooh",
+      "englishNameTranslation": "Noah",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 28,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 5420,
+          "text": "BEHOLD. We sent Noah unto his people. [saying:] \"Warn thy people ere grievous suffering befall them!",
+          "numberInSurah": 1,
+          "juz": 29
+        },
+        {
+          "number": 5421,
+          "text": "[And Noah] said: \"O my people! I am but a plain warner to you, [sent to tell you]",
+          "numberInSurah": 2,
+          "juz": 29
+        },
+        {
+          "number": 5422,
+          "text": "that you should worship God [alone] and be conscious of Him. \"Now do pay heed unto me,",
+          "numberInSurah": 3,
+          "juz": 29
+        },
+        {
+          "number": 5423,
+          "text": "so that He may forgive you some of your sins, and grant you respite until a term known [to Him alone]: but, behold, when the term appointed by God does come, it can never be put back - if you but knew it!\"",
+          "numberInSurah": 4,
+          "juz": 29
+        },
+        {
+          "number": 5424,
+          "text": "[And after a time, Noah] said: \"O my Sustainer! Verily, I have been calling unto my people night and day",
+          "numberInSurah": 5,
+          "juz": 29
+        },
+        {
+          "number": 5425,
+          "text": "but my call has only caused them to flee farther and farther away [from Thee].",
+          "numberInSurah": 6,
+          "juz": 29
+        },
+        {
+          "number": 5426,
+          "text": "And behold, whenever I called unto them with a view to Thy granting them forgiveness, they put their fingers into their ears, and wrapped themselves up in their garments [of sin]; and grew obstinate, and became [yet more] arrogant in their false pride.",
+          "numberInSurah": 7,
+          "juz": 29
+        },
+        {
+          "number": 5427,
+          "text": "\"And behold I called unto them openly;",
+          "numberInSurah": 8,
+          "juz": 29
+        },
+        {
+          "number": 5428,
+          "text": "and, behold I preached to them in public; and I spoke to them secretly, in private;",
+          "numberInSurah": 9,
+          "juz": 29
+        },
+        {
+          "number": 5429,
+          "text": "and I said: \"'Ask your Sustainer to forgive you your sins - for, verily, He is all-forgiving!",
+          "numberInSurah": 10,
+          "juz": 29
+        },
+        {
+          "number": 5430,
+          "text": "He will shower upon you heavenly blessings abundant,",
+          "numberInSurah": 11,
+          "juz": 29
+        },
+        {
+          "number": 5431,
+          "text": "and will aid you with worldly goods and children, and will bestow upon you gardens, and bestow upon you running waters.",
+          "numberInSurah": 12,
+          "juz": 29
+        },
+        {
+          "number": 5432,
+          "text": "\"'What is amiss with you that you cannot look forward to God's majesty,",
+          "numberInSurah": 13,
+          "juz": 29
+        },
+        {
+          "number": 5433,
+          "text": "seeing that He has created [every one of] you in successive stages?",
+          "numberInSurah": 14,
+          "juz": 29
+        },
+        {
+          "number": 5434,
+          "text": "\"'Do you not see how God has created seven heavens in full harmony with one another,",
+          "numberInSurah": 15,
+          "juz": 29
+        },
+        {
+          "number": 5435,
+          "text": "and has set up within them the moon as a light [reflected] and set up the sun as a [radiant] lamp?",
+          "numberInSurah": 16,
+          "juz": 29
+        },
+        {
+          "number": 5436,
+          "text": "\"'And God has caused you to grow out of the earth in [gradual] growth; and thereafter He will return you to it [in death]:",
+          "numberInSurah": 17,
+          "juz": 29
+        },
+        {
+          "number": 5437,
+          "text": "and [then] He will bring you forth [from It] in resurrection.",
+          "numberInSurah": 18,
+          "juz": 29
+        },
+        {
+          "number": 5438,
+          "text": "\"'And God has made the earth a wide expanse for you,",
+          "numberInSurah": 19,
+          "juz": 29
+        },
+        {
+          "number": 5439,
+          "text": "so that you might walk thereon on spacious paths.’\"",
+          "numberInSurah": 20,
+          "juz": 29
+        },
+        {
+          "number": 5440,
+          "text": "[And] Noah continued: \"O my Sustainer! Behold, they have opposed me [throughout], for they follow people whose wealth and children lead them increasingly into ruin,",
+          "numberInSurah": 21,
+          "juz": 29
+        },
+        {
+          "number": 5441,
+          "text": "and who have devised a most awesome blasphemy [against Thee],",
+          "numberInSurah": 22,
+          "juz": 29
+        },
+        {
+          "number": 5442,
+          "text": "inasmuch as they said [to their followers], 'Do not ever abandon your gods: abandon neither Wadd nor Suwa', and neither Yaghuth nor Ya’uq nor Nasr!'",
+          "numberInSurah": 23,
+          "juz": 29
+        },
+        {
+          "number": 5443,
+          "text": "\"And so they have led many a one astray: hence, ordain Thou that these evildoers stray but farther and farther away [from all that they may desire]!\"",
+          "numberInSurah": 24,
+          "juz": 29
+        },
+        {
+          "number": 5444,
+          "text": "And so, because of their sins, they were drowned [in the great flood], and were doomed to suffer the fire [of the hereafter]; and they found none who could succour them against God.",
+          "numberInSurah": 25,
+          "juz": 29
+        },
+        {
+          "number": 5445,
+          "text": "And Noah prayed: \"O my Sustainer! Leave not on earth any of those who deny the truth:",
+          "numberInSurah": 26,
+          "juz": 29
+        },
+        {
+          "number": 5446,
+          "text": "for, behold, If Thou dost leave them, they will [always try to] lead astray those who worship Thee, and will give birth to nothing but wickedness and stubborn ingratitude.",
+          "numberInSurah": 27,
+          "juz": 29
+        },
+        {
+          "number": 5447,
+          "text": "\"O my Sustainer! Grant Thy forgiveness unto me and unto my parents, and unto everyone who enters my house as a believer, and unto all believing men and believing women [of later times]; and grant Thou that the doers of evil shall increasingly meet with destruction!\"'",
+          "numberInSurah": 28,
+          "juz": 29
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

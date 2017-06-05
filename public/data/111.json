@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 111,
+      "name": "سورة المسد",
+      "englishName": "Al-Masad",
+      "englishNameTranslation": "The Palm Fibre",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 5,
+      "ayahs": [
+        {
+          "number": 6217,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6217,
+          "text": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6218,
+          "text": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6219,
+          "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6220,
+          "text": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6221,
+          "text": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+          "numberInSurah": 5,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 111,
+      "name": "سورة المسد",
+      "englishName": "Al-Masad",
+      "englishNameTranslation": "The Palm Fibre",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 5,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6217,
+          "text": "DOOMED are the hands of him of the glowing countence: and doomed is he!",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6218,
+          "text": "What will his wealth avail him, and all that he has gained?",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6219,
+          "text": "[In the life to come] he shall have to endure a fire fiercely glowing;",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6220,
+          "text": "together with his wife, that carrier of evil tales,",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6221,
+          "text": "[who bears] around her neck a rope of twisted strands!",
+          "numberInSurah": 5,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

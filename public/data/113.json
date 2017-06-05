@@ -1,0 +1,111 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 113,
+      "name": "سورة الفلق",
+      "englishName": "Al-Falaq",
+      "englishNameTranslation": "The Dawn",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 5,
+      "ayahs": [
+        {
+          "number": 6226,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6226,
+          "text": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6227,
+          "text": "مِنْ شَرِّ مَا خَلَقَ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6228,
+          "text": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6229,
+          "text": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6230,
+          "text": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "numberInSurah": 5,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 113,
+      "name": "سورة الفلق",
+      "englishName": "Al-Falaq",
+      "englishNameTranslation": "The Dawn",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 5,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6226,
+          "text": "SAY: \"I seek refuge with the Sustainer of the rising dawn,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6227,
+          "text": "\"from the evil of aught that He has created,",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6228,
+          "text": "\"and from the evil of the black darkness whenever it descends,",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6229,
+          "text": "\"and from the evil of all human beings bent on occult endeavours,",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6230,
+          "text": "\"and from the evil of the envious when he envies.\"",
+          "numberInSurah": 5,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

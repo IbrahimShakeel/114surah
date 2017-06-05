@@ -1,0 +1,291 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 90,
+      "name": "سورة البلد",
+      "englishName": "Al-Balad",
+      "englishNameTranslation": "The City",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 20,
+      "ayahs": [
+        {
+          "number": 6024,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6024,
+          "text": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6025,
+          "text": "وَأَنْتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6026,
+          "text": "وَوَالِدٍ وَمَا وَلَدَ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6027,
+          "text": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6028,
+          "text": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6029,
+          "text": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6030,
+          "text": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6031,
+          "text": "أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 6032,
+          "text": "وَلِسَانًا وَشَفَتَيْنِ",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 6033,
+          "text": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 6034,
+          "text": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 6035,
+          "text": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 6036,
+          "text": "فَكُّ رَقَبَةٍ",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 6037,
+          "text": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 6038,
+          "text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 6039,
+          "text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 6040,
+          "text": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 6041,
+          "text": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 6042,
+          "text": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 6043,
+          "text": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+          "numberInSurah": 20,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 90,
+      "name": "سورة البلد",
+      "englishName": "Al-Balad",
+      "englishNameTranslation": "The City",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 20,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6024,
+          "text": "NAY! I call to witness this land –",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6025,
+          "text": "this land in which thou art free to dwell -",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6026,
+          "text": "and [I call to witness] parent and offspring:",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6027,
+          "text": "Verily, We have created man into [a life of] pain, toil and trial.",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6028,
+          "text": "Does he, then, think that no one has power over him?",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6029,
+          "text": "He boasts, \"I have spent wealth abundant!\"",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6030,
+          "text": "Does he, then, think that no one sees him?",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6031,
+          "text": "Have We not given him two eyes,",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 6032,
+          "text": "and a tongue, and a pair of lips,",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 6033,
+          "text": "and shown him the two highways [of good and evil]?",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 6034,
+          "text": "But he would not try to ascend the steep uphill road...",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 6035,
+          "text": "And what could make thee conceive what it is, that steep uphill road?",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 6036,
+          "text": "[It is] the freeing of one's neck [from the burden of sin],",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 6037,
+          "text": "or the feeding, upon a day of [one's own] hunger,",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 6038,
+          "text": "of an orphan near of kin,",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 6039,
+          "text": "or of a needy [stranger] lying in the dust –",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 6040,
+          "text": "and being, withal, of those who have attained to faith, and who enjoin upon one another patience in adversity, and enjoin upon one another compassion.",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 6041,
+          "text": "Such are they that have attained to righteousness;",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 6042,
+          "text": "whereas those who are bent on denying the truth of Our messages – they are such as have lost themselves in evil,",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 6043,
+          "text": "[with] fire closing in upon them.",
+          "numberInSurah": 20,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

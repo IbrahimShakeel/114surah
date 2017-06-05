@@ -1,0 +1,303 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 92,
+      "name": "سورة الليل",
+      "englishName": "Al-Lail",
+      "englishNameTranslation": "The Night",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 21,
+      "ayahs": [
+        {
+          "number": 6059,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6059,
+          "text": "وَاللَّيْلِ إِذَا يَغْشَىٰ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6060,
+          "text": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6061,
+          "text": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6062,
+          "text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6063,
+          "text": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6064,
+          "text": "وَصَدَّقَ بِالْحُسْنَىٰ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6065,
+          "text": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6066,
+          "text": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 6067,
+          "text": "وَكَذَّبَ بِالْحُسْنَىٰ",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 6068,
+          "text": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 6069,
+          "text": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 6070,
+          "text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 6071,
+          "text": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 6072,
+          "text": "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 6073,
+          "text": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 6074,
+          "text": "الَّذِي كَذَّبَ وَتَوَلَّىٰ",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 6075,
+          "text": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 6076,
+          "text": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 6077,
+          "text": "وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 6078,
+          "text": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 6079,
+          "text": "وَلَسَوْفَ يَرْضَىٰ",
+          "numberInSurah": 21,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 92,
+      "name": "سورة الليل",
+      "englishName": "Al-Lail",
+      "englishNameTranslation": "The Night",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 21,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 6059,
+          "text": "CONSIDER the night as it veils [the earth] in darkness,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 6060,
+          "text": "and the day as it rises bright!",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 6061,
+          "text": "Consider the creation of the male and the female!",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 6062,
+          "text": "Verily, [O men,] you aim at most divergent ends!",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 6063,
+          "text": "Thus, as for him who gives [to others] and is conscious of God,",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 6064,
+          "text": "and believes in the truth of the ultimate good",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 6065,
+          "text": "for him shall We make easy the path towards [ultimate] ease.",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 6066,
+          "text": "But as for him who is niggardly, and thinks that he is self-sufficient,",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 6067,
+          "text": "and calls the ultimate good a lie –",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 6068,
+          "text": "for him shall We make easy the path towards hardship:",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 6069,
+          "text": "and what will his wealth avail him when he goes down [to his grave]?",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 6070,
+          "text": "BEHOLD, it is indeed for Us to grace [you] with guidance;",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 6071,
+          "text": "and, behold, Ours is [the dominion over] the life to come as well as [over] this earlier part [of your life]:",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 6072,
+          "text": "and so I warn you of the raging fire -",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 6073,
+          "text": "[the fire] which none shall have to endure but that most hapless wretch",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 6074,
+          "text": "who gives the lie to the truth and turns away [from it].",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 6075,
+          "text": "For, distant from it shall remain he who is truly conscious of God:",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 6076,
+          "text": "he that spends his possessions [on others] so that he might grow in purity –",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 6077,
+          "text": "not as payment for favours received,",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 6078,
+          "text": "but only out of a longing for the countenance of his Sustainer, the All-Highest:",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 6079,
+          "text": "and such, indeed, shall in time be well-pleased.",
+          "numberInSurah": 21,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}

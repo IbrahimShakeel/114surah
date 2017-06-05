@@ -1,0 +1,351 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 84,
+      "name": "سورة الإنشقاق",
+      "englishName": "Al-Inshiqaaq",
+      "englishNameTranslation": "The Splitting Open",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 25,
+      "ayahs": [
+        {
+          "number": 5885,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5885,
+          "text": "إِذَا السَّمَاءُ انْشَقَّتْ",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5886,
+          "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5887,
+          "text": "وَإِذَا الْأَرْضُ مُدَّتْ",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5888,
+          "text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5889,
+          "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5890,
+          "text": "يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5891,
+          "text": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5892,
+          "text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5893,
+          "text": "وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5894,
+          "text": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5895,
+          "text": "فَسَوْفَ يَدْعُو ثُبُورًا",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5896,
+          "text": "وَيَصْلَىٰ سَعِيرًا",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5897,
+          "text": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5898,
+          "text": "إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5899,
+          "text": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5900,
+          "text": "فَلَا أُقْسِمُ بِالشَّفَقِ",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5901,
+          "text": "وَاللَّيْلِ وَمَا وَسَقَ",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5902,
+          "text": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5903,
+          "text": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5904,
+          "text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5905,
+          "text": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5906,
+          "text": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
+          "numberInSurah": 22,
+          "juz": 30
+        },
+        {
+          "number": 5907,
+          "text": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+          "numberInSurah": 23,
+          "juz": 30
+        },
+        {
+          "number": 5908,
+          "text": "فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+          "numberInSurah": 24,
+          "juz": 30
+        },
+        {
+          "number": 5909,
+          "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+          "numberInSurah": 25,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "quran-simple",
+        "language": "ar",
+        "name": "Simple",
+        "englishName": "Simple",
+        "format": "text",
+        "type": "quran"
+      }
+    },
+    {
+      "number": 84,
+      "name": "سورة الإنشقاق",
+      "englishName": "Al-Inshiqaaq",
+      "englishNameTranslation": "The Splitting Open",
+      "revelationType": "Meccan",
+      "numberOfAyahs": 25,
+      "ayahs": [
+        {
+          "text": "In the name of God, The Most Gracious, The Dispenser of Grace:"
+        },
+        {
+          "number": 5885,
+          "text": "WHEN THE SKY is split asunder,",
+          "numberInSurah": 1,
+          "juz": 30
+        },
+        {
+          "number": 5886,
+          "text": "obeying its Sustainer, as in truth it must;",
+          "numberInSurah": 2,
+          "juz": 30
+        },
+        {
+          "number": 5887,
+          "text": "and when the earth is leveled,",
+          "numberInSurah": 3,
+          "juz": 30
+        },
+        {
+          "number": 5888,
+          "text": "and casts forth whatever is in it, and becomes utterly void,",
+          "numberInSurah": 4,
+          "juz": 30
+        },
+        {
+          "number": 5889,
+          "text": "obeying its Sustainer, as in truth it must -:",
+          "numberInSurah": 5,
+          "juz": 30
+        },
+        {
+          "number": 5890,
+          "text": "[then,] O man - thou [that] hast, verily, been toiling towards thy Sustainer in painful toil - then shalt thou meet Him!",
+          "numberInSurah": 6,
+          "juz": 30
+        },
+        {
+          "number": 5891,
+          "text": "And as for him whose record shall be placed in his right hand,",
+          "numberInSurah": 7,
+          "juz": 30
+        },
+        {
+          "number": 5892,
+          "text": "he will in time be called to account with an easy accounting,",
+          "numberInSurah": 8,
+          "juz": 30
+        },
+        {
+          "number": 5893,
+          "text": "and will [be able to] turn joyfully to those of his own kind.",
+          "numberInSurah": 9,
+          "juz": 30
+        },
+        {
+          "number": 5894,
+          "text": "But as for him whose record shall be given to him behind his back;",
+          "numberInSurah": 10,
+          "juz": 30
+        },
+        {
+          "number": 5895,
+          "text": "he will in time pray for utter destruction:",
+          "numberInSurah": 11,
+          "juz": 30
+        },
+        {
+          "number": 5896,
+          "text": "but he will enter the blazing flame.",
+          "numberInSurah": 12,
+          "juz": 30
+        },
+        {
+          "number": 5897,
+          "text": "Behold, [in his earthly life] he lived joyfully among people of his own kind",
+          "numberInSurah": 13,
+          "juz": 30
+        },
+        {
+          "number": 5898,
+          "text": "for, behold, he never thought that he would have to return [to God].",
+          "numberInSurah": 14,
+          "juz": 30
+        },
+        {
+          "number": 5899,
+          "text": "Yea indeed! His Sustainer did see all that was in him!",
+          "numberInSurah": 15,
+          "juz": 30
+        },
+        {
+          "number": 5900,
+          "text": "BUT NAY! I call to witness the sunset's [fleeting] afterglow,",
+          "numberInSurah": 16,
+          "juz": 30
+        },
+        {
+          "number": 5901,
+          "text": "and the night, and what it [step by step] unfolds,",
+          "numberInSurah": 17,
+          "juz": 30
+        },
+        {
+          "number": 5902,
+          "text": "and the moon, as it grows to its fullness:",
+          "numberInSurah": 18,
+          "juz": 30
+        },
+        {
+          "number": 5903,
+          "text": "[even thus, O men,] are you bound to move; onward from stage to stage.",
+          "numberInSurah": 19,
+          "juz": 30
+        },
+        {
+          "number": 5904,
+          "text": "What, then, is amiss with them that they will not believe [in a life to come]?",
+          "numberInSurah": 20,
+          "juz": 30
+        },
+        {
+          "number": 5905,
+          "text": "and [that], when the Qur’an is read unto them, they do not fall down in prostration?",
+          "numberInSurah": 21,
+          "juz": 30
+        },
+        {
+          "number": 5906,
+          "text": "Nay, but they who are bent on denying the truth give the lie [to this divine writ]!",
+          "numberInSurah": 22,
+          "juz": 30
+        },
+        {
+          "number": 5907,
+          "text": "Yet God has full knowledge of what they conceal [in their hearts].",
+          "numberInSurah": 23,
+          "juz": 30
+        },
+        {
+          "number": 5908,
+          "text": "Hence, give them the tiding of grievous suffering [in the life to come] –",
+          "numberInSurah": 24,
+          "juz": 30
+        },
+        {
+          "number": 5909,
+          "text": "unless it be such [of them] as [repent, and] attain to faith, and do good works: for theirs shall be a reward unending!.",
+          "numberInSurah": 25,
+          "juz": 30
+        }
+      ],
+      "edition": {
+        "identifier": "en.asad",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "format": "text",
+        "type": "translation"
+      }
+    }
+  ]
+}
